@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 
 # data = pd.read_csv("/data/Data_HA.csv")
-data_ha = pd.read_csv("/Users/macpro/Desktop/Roula/HealthCare Analytics/streamlit/data_ha.csv")
+data_ha = pd.read_csv("/Users/macpro/Desktop/Roula/dataha/streamlit/data_ha.csv")
 
 # Set Page Icon,Title, and Layout
 st.set_page_config(layout="wide",  page_title = "The Impact of Antidepressants")
